@@ -43,7 +43,7 @@ github "homebrew",    "1.6.0"
 github "hub",         "1.3.0"
 github "inifile",     "1.0.1", :repo => "puppetlabs/puppetlabs-inifile"
 github "module-data", "0.0.1", :repo => "ripienaar/puppet-module-data"
-github "nginx",       "1.4.3"
+#github "nginx",       "1.4.3"
 github "nodejs",      "3.5.0"
 github "openssl",     "1.0.0"
 github "phantomjs",   "2.1.0"
@@ -65,6 +65,9 @@ github "skype",       "1.0.2"
 github "hipchat",     "1.0.7"
 github "fluid",       "1.0.0"
 github "omnigraffle", "1.2.0"
+github "macvim_kaoriya", "1.0.0", :repo => "boxelly/puppet-macvim_kaoriya"
+github "iterm2",      "1.0.3"
+github "alfred",      "1.1.6"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
