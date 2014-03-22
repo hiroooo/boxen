@@ -58,9 +58,10 @@ github "xquartz",     "1.1.1"
 github "postgresapp", "1.0.0"
 github "virtualbox", "1.0.5"
 github "sublime_text_2", "1.1.2"
+github "firefox",     "1.1.1"
 
 # local application for utility
-#github "skype",       "1.0.2"
+github "skype",       "1.0.2"
 github "hipchat",     "1.0.7"
 github "fluid",       "1.0.0"
 github "omnigraffle", "1.2.0"
