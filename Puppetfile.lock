@@ -4,11 +4,6 @@ GITHUBTARBALL
     macvim_kaoriya (1.0.0)
 
 GITHUBTARBALL
-  remote: boxen/puppet-alfred
-  specs:
-    alfred (1.1.1)
-
-GITHUBTARBALL
   remote: boxen/puppet-boxen
   specs:
     boxen (3.3.8)
@@ -149,7 +144,6 @@ GITHUBTARBALL
     module-data (0.0.1)
 
 DEPENDENCIES
-  alfred (= 1.1.1)
   boxen (= 3.3.8)
   dnsmasq (= 1.0.1)
   firefox (= 1.1.1)

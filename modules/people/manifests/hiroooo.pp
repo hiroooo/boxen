@@ -9,5 +9,10 @@ class people::hiroooo {
     ensure  => directory
   }
 
+  package {
+    'GoogleJapaneseInput':
+      source => "http://dl.google.com/japanese-ime/latest/GoogleJapaneseInput.dmg",
+      provider => pkgdmg;
+  }
 
 }
