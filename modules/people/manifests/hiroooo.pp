@@ -2,6 +2,8 @@ class people::hiroooo {
   include macvim_kaoriya
   include iterm2::stable
   include skype
+  include evernote
+  include filezilla
 
   package {
     'XtraFinder':

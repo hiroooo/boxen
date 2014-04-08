@@ -14,6 +14,11 @@ GITHUBTARBALL
     dnsmasq (1.0.1)
 
 GITHUBTARBALL
+  remote: boxen/puppet-evernote
+  specs:
+    evernote (2.0.4)
+
+GITHUBTARBALL
   remote: boxen/puppet-firefox
   specs:
     firefox (1.1.1)
@@ -129,6 +134,11 @@ GITHUBTARBALL
     xquartz (1.1.1)
 
 GITHUBTARBALL
+  remote: dieterdemeyer/puppet-filezilla
+  specs:
+    filezilla (1.0.0)
+
+GITHUBTARBALL
   remote: puppetlabs/puppetlabs-inifile
   specs:
     inifile (1.0.1)
@@ -146,6 +156,8 @@ GITHUBTARBALL
 DEPENDENCIES
   boxen (= 3.3.8)
   dnsmasq (= 1.0.1)
+  evernote (= 2.0.4)
+  filezilla (= 1.0.0)
   firefox (= 1.1.1)
   fluid (= 1.0.0)
   foreman (= 1.1.0)
