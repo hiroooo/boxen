@@ -69,6 +69,7 @@ github "macvim_kaoriya", "1.0.0", :repo => "boxelly/puppet-macvim_kaoriya"
 github "iterm2",      "1.0.3"
 github "evernote",    "2.0.4"
 github "filezilla",   "1.0.0", :repo => "dieterdemeyer/puppet-filezilla"
+github "sourcetree",   "0.0.2"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.

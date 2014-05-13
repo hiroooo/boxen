@@ -4,6 +4,7 @@ class people::hiroooo {
   include skype
   include evernote
   include filezilla
+  include sourcetree
 
   package {
     'XtraFinder':

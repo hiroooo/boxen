@@ -114,6 +114,11 @@ GITHUBTARBALL
     skype (1.0.2)
 
 GITHUBTARBALL
+  remote: boxen/puppet-sourcetree
+  specs:
+    sourcetree (0.0.2)
+
+GITHUBTARBALL
   remote: boxen/puppet-sublime_text_2
   specs:
     sublime_text_2 (1.1.2)
@@ -180,6 +185,7 @@ DEPENDENCIES
   repository (= 2.3.0)
   ruby (= 7.1.6)
   skype (= 1.0.2)
+  sourcetree (= 0.0.2)
   stdlib (= 4.1.0)
   sublime_text_2 (= 1.1.2)
   sudo (= 1.0.0)
